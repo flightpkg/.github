@@ -16,7 +16,7 @@ Flight is a **swift**, **reliable** & **multi-language package** manager<br>
 which unifies all forms of package management into one sleek CLI,<br>
 no matter the language or registry without compromising on speed.
 
-<a href="https://flightpkg.js.org/">
-Visit the flight documentation to learn more <img valign="middle" src="https://cdn.discordapp.com/attachments/938308979686260746/978684558369234964/icon-link-extern.svg" alt="(external link)" title="(external link)">
+<a href="https://discord.gg/nSq93KYykn">
+Join the Discord server to chat with the community <img valign="middle" src="https://cdn.discordapp.com/attachments/938308979686260746/978684558369234964/icon-link-extern.svg" alt="(external link)" title="(external link)">
 </a>
 <br>
